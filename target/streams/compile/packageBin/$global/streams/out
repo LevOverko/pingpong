@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/ping-pong-akka_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Ping$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/Ping$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/PingMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/PingMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/PongMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/PongMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/PongMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/PongMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Pong$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/Pong$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/StartMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/StartMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/PingMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/PingMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/StopMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/StopMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/StopMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/StopMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/StartMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example/StartMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/PingPongAkka/ping-pong-akka/target/scala-2.12/classes/example[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
