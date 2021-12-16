@@ -40,3 +40,9 @@ class Pong extends Actor {
       context.stop(self)
   }
 }
+object Main extends App {
+  val system = ActorSystem("PingPongSystem")
+  val pong = system.actorOf(Props[Pong], name = "pong")
+  val ping = system.actorOf(Props(new Ping(pong)), name = "ping")
+  ping ! StartMessage
+}
